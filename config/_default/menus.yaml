@@ -22,6 +22,9 @@ main:
   - name: Resources
     url: 'resources/'
     weight: 60
+  - name: Intranet
+    url: 'https://collaboration.cen.uni-hamburg.de/spaces/BCP/pages/179017887/ExO+Documentation'
+    weight: 80
   - name: Contact
     url: '#contact'
     weight: 100

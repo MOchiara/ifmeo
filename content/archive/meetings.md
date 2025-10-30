@@ -12,7 +12,7 @@ show_related: true
 
 lastmod: 2024-01-08
 authors: [Eleanor Frajka-Williams]
-tags: ["student"]
+tags: ["student", "meetings"]
 private: true
 
 weight: 40
